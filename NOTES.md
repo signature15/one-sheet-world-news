@@ -2,7 +2,11 @@
 
 ## Design notes
 
-Notes on the layout choices in `entry.png` (Thursday 19 November 2026).
+Notes on the layout choices in `entry.png`, the one-sheet broadsheet covering
+Thursday 19 November 2026. The day's 38 stories were compressed onto a single
+front page, and every choice below exists to keep that compression legible:
+which of the 38 stories earn space, which collapse into briefs, and how the
+sheet signals its ranking to a reader who has seconds rather than minutes.
 
 - **Cream paper.** The page background is a warm off-white rather than pure
   white so the sheet reads as newsprint rather than a screenshot. A pure
@@ -48,3 +52,15 @@ Notes on the layout choices in `entry.png` (Thursday 19 November 2026).
   through ranked narrative (hero → secondary → tertiary) to compressed
   listings (briefs) and finally to the verification line - the same funnel
   a reader of a real front page follows, from headline to briefs column.
+
+## Sources
+
+- Reuters
+- AP
+- AFP
+- BBC
+- Bloomberg
+- Kyodo
+- ICJ
+- USGS
+- ONS
