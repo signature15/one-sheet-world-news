@@ -2,11 +2,16 @@
 
 ## Design notes
 
-Notes on the layout choices in `entry.png`, the one-sheet broadsheet covering
-Thursday 19 November 2026. The day's 38 stories were compressed onto a single
-front page, and every choice below exists to keep that compression legible:
-which of the 38 stories earn space, which collapse into briefs, and how the
-sheet signals its ranking to a reader who has seconds rather than minutes.
+These notes document the layout of `entry.png`, the one-sheet broadsheet that
+covers a single day of world news - Thursday 19 November 2026 - and nothing
+else. The day's full 38-story report was compressed onto one front page, with
+no second page and no carry-over, so the sheet is first and foremost an
+exercise in omission: deciding which of the 38 stories earn hero cards, which
+settle for secondary or tertiary treatment, and which collapse into one-line
+briefs. Every choice recorded below serves that compression - the numbers
+strip carries the scale of the day at a glance, the card sizes encode the
+ranking geometrically, and the sheet is built to signal its order of
+importance to a reader who has seconds rather than minutes.
 
 - **Cream paper.** The page background is a warm off-white rather than pure
   white so the sheet reads as newsprint rather than a screenshot. A pure
@@ -55,12 +60,14 @@ sheet signals its ranking to a reader who has seconds rather than minutes.
 
 ## Sources
 
-- Reuters
-- AP
-- AFP
-- BBC
-- Bloomberg
-- Kyodo
-- ICJ
-- USGS
-- ONS
+The day's reporting and data were drawn from the following sources:
+
+- Reuters - international news agency
+- AP - Associated Press, international news agency
+- AFP - Agence France-Presse, international news agency
+- BBC - British Broadcasting Corporation
+- Bloomberg - business and financial news
+- Kyodo - Kyodo News, Japan's leading news agency
+- ICJ - International Court of Justice
+- USGS - United States Geological Survey, seismic data
+- ONS - Office for National Statistics, UK statistics
