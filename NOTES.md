@@ -2,16 +2,15 @@
 
 ## Design notes
 
-These notes document the layout of `entry.png`, the one-sheet broadsheet that
-covers a single day of world news - Thursday 19 November 2026 - and nothing
-else. The day's full 38-story report was compressed onto one front page, with
-no second page and no carry-over, so the sheet is first and foremost an
-exercise in omission: deciding which of the 38 stories earn hero cards, which
-settle for secondary or tertiary treatment, and which collapse into one-line
-briefs. Every choice recorded below serves that compression - the numbers
-strip carries the scale of the day at a glance, the card sizes encode the
-ranking geometrically, and the sheet is built to signal its order of
-importance to a reader who has seconds rather than minutes.
+These notes document `NEWSDAY: THE WORLD`, a cream one-page broadsheet for
+Thursday 19 November 2026. The edition compresses 40 stories onto one front
+page, with no second page, and uses a stat band to establish the day's scale
+before the ranked reporting begins. A region tally keeps the geographic spread
+of the coverage visible, while the layout gives the most consequential stories
+the strongest visual presence and folds the rest into progressively tighter
+formats. The date-check footer closes the page by separating events from
+Thursday 19 November from earlier coverage, reaction, or carryover, making the
+one-day claim explicit and easy to verify.
 
 - **Cream paper.** The page background is a warm off-white rather than pure
   white so the sheet reads as newsprint rather than a screenshot. A pure
